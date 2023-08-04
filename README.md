@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/F9HUl5L.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Video Walkthrough](https://imgur.com/a/F9HUl5L.gif)
+![Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVvdmJndXpsd2t6dnBwcTRsY3M3OTI3M25xbDdldWR5MzFvZTM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HuqnCFXNgxe9kPMt95/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
