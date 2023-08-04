@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/F9HUl5L.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://imgur.com/a/F9HUl5L.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
@@ -40,6 +41,7 @@ List of favorite applications:
     - Add pages
     - Create a calendar
     - Can share pages
+
 I would like to create an app that encourage productivity in a competitive way with a leaderboard system. You can add tasks such as washing dishes and when you complete the task, you earn points that will place you somewhere on the leaderboard with your friends.
 ## Notes
 
